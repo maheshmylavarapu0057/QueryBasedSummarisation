@@ -1,0 +1,5 @@
+# QueryBasedSummarisation
+Diversity_drivenAttention_Model_for_Query_based_Abstractive_Summarization
+This is implementation of paper Diversity_drivenAttention_Model_for_Query_based_Abstractive_Summarization
+
+
